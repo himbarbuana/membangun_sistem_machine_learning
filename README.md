@@ -6,6 +6,23 @@
 
 Proyek akhir pembelajaran **Membangun Sistem Machine Learning (MSML)** yang mendokumentasikan perjalanan sebuah sistem machine learning dari eksperimen hingga monitoring.
 
+<div align="center">
+
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/himbarbuana/membangun_sistem_machine_learning?style=flat-square)](https://github.com/himbarbuana/membangun_sistem_machine_learning/commits/main)
+[![GitHub Repo Size](https://img.shields.io/github/repo-size/himbarbuana/membangun_sistem_machine_learning?style=flat-square)](https://github.com/himbarbuana/membangun_sistem_machine_learning)
+
+</div>
+
+<div align="center">
+
+[![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![MLflow](https://img.shields.io/badge/MLflow-2.19.0-0194E2?style=flat-square&logo=mlflow&logoColor=white)](https://mlflow.org/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/himbarbuana/membangun_sistem_machine_learning/actions)
+[![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-E6522C?style=flat-square&logo=prometheus&logoColor=white)](https://prometheus.io/)
+[![Grafana](https://img.shields.io/badge/Grafana-Dashboard-F46800?style=flat-square&logo=grafana&logoColor=white)](https://grafana.com/)
+
+</div>
+
 `Python` · `MLflow` · `DagsHub` · `Docker` · `GitHub Actions` · `Prometheus` · `Grafana`
 
 </div>
@@ -50,7 +67,8 @@ Monitoring & Logging
 │   ├── 7_Inference.py
 │   └── telco_customer_churn_preprocessing.csv
 ├── workflow_ci.txt
-└── README.md
+├── README.md
+└── README_EN.md
 ```
 
 ## Alur
